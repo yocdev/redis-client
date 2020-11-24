@@ -9,7 +9,7 @@
     "build": "tsc",
     "lint": "eslint src",
     "test": "jest",
-    "prepare": "yarn build"
+    "prepare": "npm run build"
   },
   "devDependencies": {
     "@types/jest": "26.0.15",

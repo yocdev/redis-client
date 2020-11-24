@@ -29,6 +29,6 @@
     }
   },
   "lint-staged": {
-    "*.ts": "eslint --cache"
+    "src/**/*.ts": "eslint --cache"
   }
 }

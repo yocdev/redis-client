@@ -1,6 +1,6 @@
 {
-  "name": "redis-client",
-  "version": "0.1.0",
+  "name": "@yocdev/redis-client",
+  "version": "0.1.2",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "license": "MIT",
